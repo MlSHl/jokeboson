@@ -5,7 +5,7 @@ st.set_page_config(page_title="Quantum Weight Loss Solution", page_icon="🌌")
 
 # Main title and author information
 st.title("Unveiling the Quantum Weight Loss Solution: Ditching Higgs Boson Interaction")
-st.markdown("*By Cosmos Quantumson, Theoretical Degree in Physics at South Harmon Institute of Technology (SHIT)*")
+st.markdown("*By Cosmos Quantumson, Theoretical Degree in Physics at South Harmon Institute of Technology *")
 
 # Main content
 st.image("Designer.png", use_column_width=True)
