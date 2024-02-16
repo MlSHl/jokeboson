@@ -5,7 +5,7 @@ st.set_page_config(page_title="Quantum Weight Loss Solution", page_icon="🌌")
 
 # Main title and author information
 st.title("Unveiling the Quantum Weight Loss Solution: Ditching Higgs Boson Interaction")
-st.markdown("<sub><sub>By Cosmo Quantumson, Theoretical Degree in Physics at South Harmon Institute of Technology (SHIT)</sub></sub>", unsafe_allow_html=True)
+st.markdown("*By Zephyr Starfield, Theoretical Physicist at South Harmon Institute of Technology (SHIT)*")
 
 # Main content
 st.image("Designer.png", use_column_width=True)
@@ -32,3 +32,5 @@ Forget about counting calories or sweating through grueling workouts. It's time 
 
 So, if you're ready to embark on a journey that defies conventional wisdom and challenges the very fabric of reality, then step into the world of quantum weight loss. Say goodbye to the Higgs boson and hello to the body of your dreams.
 """)
+
+
