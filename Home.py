@@ -12,7 +12,6 @@ st.image("Designer.png", use_column_width=True)
 
 # Styling with HTML and Markdown
 st.markdown("""
-<span style='font-family:"Times New Roman"'>
 Are you tired of traditional weight loss methods that involve tedious workouts, restrictive diets, and constant calorie counting? Well, buckle up, because I'm about to blow your mind with the latest breakthrough in quantum weight loss: saying sayonara to the Higgs boson!
 
 Now, I know what you're thinking: "What on Earth is a Higgs boson, and how can it possibly have anything to do with shedding those extra pounds?" Trust me, dear reader, I had the same skepticism until I delved into the mind-bending world of quantum physics.
@@ -32,5 +31,4 @@ Now, I know what you're thinking: "This all sounds too fantastical to be true." 
 Forget about counting calories or sweating through grueling workouts. It's time to embrace the power of quantum physics and bid farewell to the Higgs boson. Who needs gym memberships when you can tap into the boundless energies of the cosmos?
 
 So, if you're ready to embark on a journey that defies conventional wisdom and challenges the very fabric of reality, then step into the world of quantum weight loss. Say goodbye to the Higgs boson and hello to the body of your dreams.
-</span>
-""", unsafe_allow_html=True)
+""")
